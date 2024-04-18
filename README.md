@@ -12,7 +12,7 @@ In your `configuration.nix`:
 ```
 
 ## Development
-In case you want to contribute, check out the repo into a [typst package directory}(https://github.com/typst/packages?tab=readme-ov-file#local-packages) 
+In case you want to contribute, check out the repo into a [typst package directory](https://github.com/typst/packages?tab=readme-ov-file#local-packages) 
 
 ### Example for Linux:
 Local package path: `~/.local/share/typst/packages/local/optimal-ovgu-thesis/develop`
