@@ -2,7 +2,7 @@
 name = "optimal-ovgu-thesis"
 version = "0.1.0"
 entrypoint = "template.typ"
-authors = ["Valentin Rieß <https://github.com/v411e>"]
+authors = ["Valentin Rieß <@v411e>"]
 repository = "https://github.com/v411e/optimal-ovgu-thesis"
 license = "MIT"
 description = "A thesis template for Otto von Guericke University Magdeburg"
