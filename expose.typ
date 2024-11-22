@@ -35,7 +35,9 @@
 
   v(2em)
 
-  show par: set block(spacing: 1em)
+  show par: set block(spacing: 1em) if sys.version <= version(0, 11, 1)
+  set par(spacing: 1em) if sys.version >= version(0, 12, 0)
+  
   set par(
     leading: 0.7em,
     justify: true,
