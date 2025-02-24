@@ -44,7 +44,7 @@
       Betreuer:
     ] else [
       Advisors:
-    ]), advisors.join(", "), strong(if (lang == "de") [
+    ]), advisors.join("\n"), strong(if (lang == "de") [
       Themensteller:
     ] else [
       Supervisor:
